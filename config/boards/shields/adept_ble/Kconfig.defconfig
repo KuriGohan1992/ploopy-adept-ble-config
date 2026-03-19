@@ -1,7 +1,7 @@
 if SHIELD_ADEPT_BLE
 
 config ZMK_KEYBOARD_NAME
-    default "adept_ble"
+    default "Ploopy Adept"
 
 endif
 
